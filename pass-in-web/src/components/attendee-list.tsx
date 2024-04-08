@@ -119,7 +119,6 @@ export function AttendeeList() {
                         placeholder="Buscar participante... " />
                 </div>
             </div>
-
             <Table>
                 <thead>
                     <tr className="border-b border-white/10">
